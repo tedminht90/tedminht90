@@ -27,13 +27,13 @@
 
 -----
   
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api/top-langs/?username=tedminht90&show_icons=true&langs_count=8" />
   <img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api?username=tedminht90&show_icons=true&theme=highcontrast" />
   
-</details>
+
 <br />
 <br />
 
