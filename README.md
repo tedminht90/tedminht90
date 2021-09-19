@@ -33,7 +33,7 @@
   
   <img align="right" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api?username=tedminht90&show_icons=true&theme=highcontrast" />
    <br />
-  <img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api/top-langs/?username=tedminht90&show_icons=true&langs_count=8" />
+  <img align="right" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api/top-langs/?username=tedminht90&show_icons=true&langs_count=8" />
  
 </details>
 <br />
