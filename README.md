@@ -22,15 +22,15 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]  
 
 <br />  
-### Most language:
-<img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api/top-langs/?username=tedminht90&show_icons=true&langs_count=8" />
+
+
 
 -----
   
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api?username=tedminht90&show_icons=true&theme=tokyonight" />
+  <img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api/top-langs/?username=tedminht90&show_icons=true&langs_count=8" />
   <img align="left" alt="tedminh90's GitHub Stats" src="https://github-readme-git-master-tedminht90.vercel.app/api?username=tedminht90&show_icons=true&theme=highcontrast" />
   
 </details>
